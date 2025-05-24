@@ -49,7 +49,9 @@ To write a C program to generate the Fibonacci series for the value 6.
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/0a993710-4a1b-4d0d-9427-2dc30ee5a0a6)
+![image](https://github.com/user-attachments/assets/4b902aee-2552-418b-ab77-fdf2c2776056)
+
+
 
 
 
